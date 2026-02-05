@@ -15,4 +15,4 @@
 ---
 *Contact:*
 <!-- ![My Banner!](LoganThomleyGitHubConnect.png) -->
-- Connect with me on [LinkedIn](www.linkedin.com/in/loganthomley)!
+- Connect with me on [LinkedIn](https://linkedin.com/in/loganthomley)!
