@@ -9,7 +9,7 @@
 - 🤖 Founded #1 Ranked HS [Robotics Team](https://www.youtube.com/watch?v=roouqoDrFIo&t=1s) (1/20,000+ globally)
 ---
 *Currently Building:*
-- 📊 [**SHEATH-D**L](https://github.com/LThmly/SHEATH-DL.git) - Deep Learning Library for C++
+- 📊 [**SHEATH-DL**](https://github.com/LThmly/SHEATH-DL.git) - Deep Learning Library for C++
 - 👓 **Smart Glasses** w/ wake word detection
 - 🔍 **SwampSearch** - Platform connecting **students** to **research labs**
 ---
