@@ -1,5 +1,3 @@
-**robotics, learning-based methods, computer vision**
+**robotics ∧ learning-based methods**
 
 Prev Intern @ [Rovex](https://gorovex.com) • President @ [EIG](https://ufeig.com) • Incoming President @ [GATR](https://gatrvex.org)
-
-> [Connect on LinkedIn](https://linkedin.com/in/loganthomley)
