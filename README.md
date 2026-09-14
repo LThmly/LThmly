@@ -1,3 +1,5 @@
 **robotics ∧ learning-based methods**
 
-Prev Intern @ [Rovex](https://gorovex.com) • President @ [EIG](https://ufeig.com) • Incoming President @ [GATR](https://gatrvex.org)
+➾ Prev Robotics SWE Intern @ [Rovex](https://gorovex.com)  
+➾ President @ [Embodied Intelligence Group](https://ufeig.com)  
+➾ Incoming President @ [GATR VEX Robotics](https://gatrvex.org)
